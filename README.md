@@ -53,10 +53,7 @@ I'm a passionate and experienced game developer who builds immersive digital exp
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🎥 [YouTube Channel](https://youtube.com/yourchannel)
-- 🐦 [Twitter / X](https://twitter.com/yourhandle)
+- [Discord](https://discord.gg/vnBkP4xYRv)
 
 ---
 
